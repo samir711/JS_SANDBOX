@@ -1,0 +1,1 @@
+D:\JavaScriptProjects\JavaScriptProject\JS_SANDBOX>"C:\Program Files (x86)\Java\jdk1.8.0_144\bin"\jjs Usefulapp.js
