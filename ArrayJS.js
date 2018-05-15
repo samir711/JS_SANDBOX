@@ -1,4 +1,6 @@
 // Create some arrays
+// Missing Array.from // example at the end
+// Missing Array.filter
 
 const numbers = [43,56,33,23,44,36,5];
 const numbers2 = new Array(22,45,33,76,54);
@@ -74,5 +76,13 @@ val = numbers3.find(over50);
 
 console.log(val);
 
+// let scripts = document.scripts;
+
+// let scriptsArr = Array.from(scripts);
+
+// scriptsArr.forEach(function (script) {
+
+//   console.log(script);
+// });
 
 // console.log(mixed);
