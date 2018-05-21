@@ -12,3 +12,9 @@ The code formatting is available in VS Code through the following shortcuts:
 
 On Windows Shift + Alt + F
 
+Multiline comments
+
+Shilf + Alt + A
+
+ I prefer Ctrl + Shift + / for toggling block comments because Ctrl + / is shortcut for toggling line 
+
